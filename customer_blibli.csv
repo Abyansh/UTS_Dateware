@@ -1,0 +1,101 @@
+id_customer,nama_customer,alamat,kota,provinsi,kodepos,no_telp,email
+2000,Ari Wibowo,Jl. Jendral Sudirman No. 10,Jakarta,DKI Jakarta,10110,081234567901,ari.wibowo@example.com
+2001,Dewi Cahyani,Jl. Pemuda No. 15,Bandung,Jawa Barat,40111,081234567902,dewi.cahyani@example.com
+2002,Andi Firmansyah,Jl. Diponegoro No. 5,Surabaya,Jawa Timur,60221,081234567903,andi.firmansyah@example.com
+2003,Siti Nurul,Jl. Merdeka No. 8,Medan,Sumatera Utara,20111,081234567904,siti.nurul@example.com
+2004,Budi Santoso,Jl. Kenanga No. 12,Bogor,Jawa Barat,16111,081234567905,budi.santoso@example.com
+2005,Lina Wijaya,Jl. Ahmad Yani No. 9,Balikpapan,Kalimantan Timur,76112,081234567906,lina.wijaya@example.com
+2006,Rudi Hartono,Jl. Pahlawan No. 6,Semarang,Jawa Tengah,50121,081234567907,rudi.hartono@example.com
+2007,Rina Handayani,Jl. Mangga No. 7,Balikpapan,Kalimantan Timur,76113,081234567908,rina.handayani@example.com
+2008,Ferry Setiawan,Jl. Sudirman No. 5,Malang,Jawa Timur,65111,081234567909,ferry.setiawan@example.com
+2009,Tari Purnama,Jl. Kartini No. 4,Denpasar,Bali,80112,081234567910,tari.purnama@example.com
+2010,Ahmad Fauzi,Jl. Kusuma Bangsa No. 6,Banda Aceh,Aceh,23111,081234567911,ahmad.fauzi@example.com
+2011,Ratna Dewi,Jl. Gajah Mada No. 3,Yogyakarta,DI Yogyakarta,55122,081234567912,ratna.dewi@example.com
+2012,Yusuf Iskandar,Jl. Panjaitan No. 10,Makassar,Sulawesi Selatan,90114,081234567913,yusuf.iskandar@example.com
+2013,Anita Kusuma,Jl. Jendral Sudirman No. 11,Manado,Sulawesi Utara,95113,081234567914,anita.kusuma@example.com
+2014,Endang Sri,Jl. Dr. Sutomo No. 7,Pontianak,Kalimantan Barat,78112,081234567915,endang.sri@example.com
+2015,Wawan Setiawan,Jl. Rajawali No. 10,Pekanbaru,Riau,28113,081234567916,wawan.setiawan@example.com
+2016,Rina Handayani,Jl. Veteran No. 5,Padang,Sumatera Barat,25112,081234567917,rina.handayani@example.com
+2017,Aditya Nugroho,Jl. Kusuma Bangsa No. 2,Jayapura,Papua,99114,081234567918,aditya.nugroho@example.com
+2018,Dewi Sartika,Jl. Gatot Subroto No. 10,Serang,Banten,42111,081234567919,dewi.sartika@example.com
+2019,Bambang Susilo,Jl. Merpati No. 7,Banjarmasin,Kalimantan Selatan,70115,081234567920,bambang.susilo@example.com
+2020,Fitria Ningsih,Jl. Surya Kencana No. 8,Solo,Jawa Tengah,57115,081234567921,fitria.ningsih@example.com
+2021,Doni Setiawan,Jl. Jendral Gatot Subroto No. 9,Tangerang,Banten,15111,081234567922,doni.setiawan@example.com
+2022,Mila Puspita,Jl. Letjen S. Parman No. 13,Batam,Kepri,29444,081234567923,mila.puspita@example.com
+2023,Ilham Purnama,Jl. Ki Hajar Dewantara No. 3,Bengkulu,Bengkulu,38111,081234567924,ilham.purnama@example.com
+2024,Sri Mulyani,Jl. Pancasila No. 4,Cirebon,Jawa Barat,45111,081234567925,sri.mulyani@example.com
+2025,Faisal Anwar,Jl. Sriwijaya No. 6,Lampung,Lampung,35113,081234567926,faisal.anwar@example.com
+2026,Tari Kurniasih,Jl. Bunga Rampai No. 8,Palangkaraya,Kalimantan Tengah,73112,081234567927,tari.kurniasih@example.com
+2027,Hendra Gunawan,Jl. Rajawali No. 10,Gorontalo,Gorontalo,96114,081234567928,hendra.gunawan@example.com
+2028,Linda Kusnadi,Jl. Tanjung Duren No. 9,Ternate,Maluku Utara,97712,081234567929,linda.kusnadi@example.com
+2029,Zaki Ramadhan,Jl. Kebon Sirih No. 12,Samarinda,Kalimantan Timur,75111,081234567930,zaki.ramadhan@example.com
+2030,Farah Amelia,Jl. Letjen Suprapto No. 7,Ambon,Maluku,97115,081234567931,farah.amelia@example.com
+2031,Feri Setiawan,Jl. Agus Salim No. 3,Palopo,Sulawesi Selatan,91911,081234567932,feri.setiawan@example.com
+2032,Wulan Sari,Jl. Gajah Wong No. 2,Salatiga,Jawa Tengah,50711,081234567933,wulan.sari@example.com
+2033,Agung Prasetya,Jl. Yos Sudarso No. 10,Kendari,Sulawesi Tenggara,93111,081234567934,agung.prasetya@example.com
+2034,Yuni Astuti,Jl. Hasanuddin No. 6,Probolinggo,Jawa Timur,67211,081234567935,yuni.astuti@example.com
+2035,Hadi Wijaya,Jl. Pemuda No. 7,Mataram,NTB,83112,081234567936,hadi.wijaya@example.com
+2036,Fitriani Dewi,Jl. Ahmad Dahlan No. 4,Sibolga,Sumatera Utara,22523,081234567937,fitriani.dewi@example.com
+2037,Gilang Ramadhan,Jl. Mangga Besar No. 7,Bogor,Jawa Barat,16115,081234567938,gilang.ramadhan@example.com
+2038,Rini Aprilia,Jl. Diponegoro No. 10,Pematangsiantar,Sumatera Utara,21121,081234567939,rini.aprilia@example.com
+2039,Reza Kurniawan,Jl. Sudirman No. 6,Balikpapan,Kalimantan Timur,76115,081234567940,reza.kurniawan@example.com
+2040,Susanti Marlina,Jl. Adi Sucipto No. 4,Tasikmalaya,Jawa Barat,46112,081234567941,susanti.marlina@example.com
+2041,Erwin Saputra,Jl. Merdeka No. 4,Ternate,Maluku Utara,97713,081234567942,erwin.saputra@example.com
+2042,Yulia Puspitasari,Jl. Imam Bonjol No. 5,Sorong,Papua Barat,98411,081234567943,yulia.puspitasari@example.com
+2043,Dicky Suryadi,Jl. A. Yani No. 6,Manokwari,Papua Barat,98312,081234567944,dicky.suryadi@example.com
+2044,Siti Fatimah,Jl. Pattimura No. 10,Kupang,NTT,85111,081234567945,siti.fatimah@example.com
+2045,Bagus Supriyadi,Jl. Gadjah Mada No. 1,Banyuwangi,Jawa Timur,68411,081234567946,bagus.supriyadi@example.com
+2046,Dina Rosdiana,Jl. Teuku Umar No. 3,Bogor,Jawa Barat,16111,081234567947,dina.rosdiana@example.com
+2047,Arman Wijaya,Jl. Pandanaran No. 4,Semarang,Jawa Tengah,50113,081234567948,arman.wijaya@example.com
+2048,Maria Yosepha,Jl. Dr. Wahidin No. 6,Bali,Bali,80111,081234567949,maria.yosepha@example.com
+2049,Yoga Pratama,Jl. Kalimantan No. 15,Malang,Jawa Timur,65112,081234567950,yoga.pratama@example.com
+2050,Putri Ayu,Jl. Wijaya Kusuma No. 2,Surabaya,Jawa Timur,60212,081234567951,putri.ayu@example.com
+2051,Fauzi Rahman,Jl. Sisingamangaraja No. 12,Medan,Sumatera Utara,20115,081234567952,fauzi.rahman@example.com
+2052,Elis Suryani,Jl. Taman Sari No. 19,Bandung,Jawa Barat,40132,081234567953,elis.suryani@example.com
+2053,Ryan Dwi,Jl. Jenderal Sudirman No. 8,Jakarta,DKI Jakarta,10120,081234567954,ryan.dwi@example.com
+2054,Dian Saputri,Jl. Gajah Mada No. 17,Surabaya,Jawa Timur,60222,081234567955,dian.saputri@example.com
+2055,Eka Novita,Jl. Ahmad Yani No. 3,Balikpapan,Kalimantan Timur,76112,081234567956,eka.novita@example.com
+2056,Hendra Kurniawan,Jl. Diponegoro No. 1,Denpasar,Bali,80123,081234567957,hendra.kurniawan@example.com
+2057,Rachmat Santoso,Jl. Mangga Dua No. 12,Medan,Sumatera Utara,20122,081234567958,rachmat.santoso@example.com
+2058,Ayu Permata,Jl. Pemuda No. 14,Malang,Jawa Timur,65114,081234567959,ayu.permata@example.com
+2059,Iwan Hidayat,Jl. Kartini No. 9,Bogor,Jawa Barat,16112,081234567960,iwan.hidayat@example.com
+2060,Maya Indah,Jl. Melati No. 16,Bandung,Jawa Barat,40123,081234567961,maya.indah@example.com
+2061,Putra Aditya,Jl. Jenderal Sudirman No. 20,Surabaya,Jawa Timur,60223,081234567962,putra.aditya@example.com
+2062,Firdaus Ahmad,Jl. Ahmad Yani No. 8,Jakarta,DKI Jakarta,10121,081234567963,firdaus.ahmad@example.com
+2063,Yuni Sari,Jl. Letjen Suprapto No. 4,Bogor,Jawa Barat,16113,081234567964,yuni.sari@example.com
+2064,Rendy Pratama,Jl. Imam Bonjol No. 10,Denpasar,Bali,80124,081234567965,rendy.pratama@example.com
+2065,Lina Permatasari,Jl. Jenderal Sudirman No. 7,Medan,Sumatera Utara,20125,081234567966,lina.permatasari@example.com
+2066,Agus Rahmat,Jl. Ahmad Yani No. 6,Bandung,Jawa Barat,40135,081234567967,agus.rahmat@example.com
+2067,Tari Kartika,Jl. Diponegoro No. 5,Surabaya,Jawa Timur,60224,081234567968,tari.kartika@example.com
+2068,Hani Nurul,Jl. Sudirman No. 2,Jakarta,DKI Jakarta,10122,081234567969,hani.nurul@example.com
+2069,Yudi Santoso,Jl. Pemuda No. 1,Bogor,Jawa Barat,16114,081234567970,yudi.santoso@example.com
+2070,Fera Wahyuni,Jl. Jenderal Sudirman No. 11,Surabaya,Jawa Timur,60225,081234567971,fera.wahyuni@example.com
+2071,Eko Purwanto,Jl. Ahmad Yani No. 7,Medan,Sumatera Utara,20126,081234567972,eko.purwanto@example.com
+2072,Rina Sari,Jl. Kartini No. 6,Bandung,Jawa Barat,40124,081234567973,rina.sari@example.com
+2073,Andri Setiawan,Jl. Diponegoro No. 4,Jakarta,DKI Jakarta,10123,081234567974,andri.setiawan@example.com
+2074,Lidya Puspita,Jl. Ahmad Yani No. 11,Surabaya,Jawa Timur,60226,081234567975,lidya.puspita@example.com
+2075,Adi Kurniawan,Jl. Imam Bonjol No. 5,Bogor,Jawa Barat,16115,081234567976,adi.kurniawan@example.com
+2076,Santi Wulandari,Jl. Jenderal Sudirman No. 18,Denpasar,Bali,80125,081234567977,santi.wulandari@example.com
+2077,Yoga Tri,Jl. Ahmad Yani No. 12,Medan,Sumatera Utara,20127,081234567978,yoga.tri@example.com
+2078,Rahmat Hidayat,Jl. Melati No. 19,Surabaya,Jawa Timur,60227,081234567979,rahmat.hidayat@example.com
+2079,Lala Marlina,Jl. Diponegoro No. 8,Bandung,Jawa Barat,40125,081234567980,lala.marlina@example.com
+2080,Wawan Kurniawan,Jl. Jenderal Sudirman No. 5,Jakarta,DKI Jakarta,10124,081234567981,wawan.kurniawan@example.com
+2081,Mira Sari,Jl. Imam Bonjol No. 2,Bogor,Jawa Barat,16116,081234567982,mira.sari@example.com
+2082,Rio Wijaya,Jl. Ahmad Yani No. 17,Surabaya,Jawa Timur,60228,081234567983,rio.wijaya@example.com
+2083,Yeni Kusuma,Jl. Kartini No. 10,Medan,Sumatera Utara,20128,081234567984,yeni.kusuma@example.com
+2084,Fajar Rahman,Jl. Sudirman No. 6,Bandung,Jawa Barat,40126,081234567985,fajar.rahman@example.com
+2085,Indah Purnama,Jl. Diponegoro No. 2,Jakarta,DKI Jakarta,10125,081234567986,indah.purnama@example.com
+2086,Dodi Pratama,Jl. Ahmad Yani No. 20,Surabaya,Jawa Timur,60229,081234567987,dodi.pratama@example.com
+2087,Fina Nurul,Jl. Pemuda No. 3,Bogor,Jawa Barat,16117,081234567988,fina.nurul@example.com
+2088,Gita Pratiwi,Jl. Jenderal Sudirman No. 14,Denpasar,Bali,80126,081234567989,gita.pratiwi@example.com
+2089,Rudi Kurniawan,Jl. Diponegoro No. 10,Medan,Sumatera Utara,20129,081234567990,rudi.kurniawan@example.com
+2090,Sri Rahayu,Jl. Ahmad Yani No. 5,Surabaya,Jawa Timur,60230,081234567991,sri.rahayu@example.com
+2091,Tina Marlina,Jl. Kartini No. 8,Bandung,Jawa Barat,40127,081234567992,tina.marlina@example.com
+2092,Ardiansyah Pratama,Jl. Jenderal Sudirman No. 12,Jakarta,DKI Jakarta,10126,081234567993,ardiansyah.pratama@example.com
+2093,Wahyu Tri,Jl. Ahmad Yani No. 23,Surabaya,Jawa Timur,60231,081234567994,wahyu.tri@example.com
+2094,Mega Ayu,Jl. Pemuda No. 5,Bogor,Jawa Barat,16118,081234567995,mega.ayu@example.com
+2095,Firman Suryadi,Jl. Jenderal Sudirman No. 16,Denpasar,Bali,80127,081234567996,firman.suryadi@example.com
+2096,Yani Suryani,Jl. Diponegoro No. 12,Medan,Sumatera Utara,20130,081234567997,yani.suryani@example.com
+2097,Samsul Arifin,Jl. Melati No. 20,Surabaya,Jawa Timur,60232,081234567998,samsul.arifin@example.com
+2098,Fani Nurhasanah,Jl. Kartini No. 11,Bandung,Jawa Barat,40128,081234567999,fani.nurhasanah@example.com
+2099,Aris Pratama,Jl. Diponegoro No. 14,Jakarta,DKI Jakarta,10127,0812345678100,aris.pratama@example.com
